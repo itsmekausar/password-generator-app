@@ -8,3 +8,4 @@ Features-
 - Copy generated password to clipboard with one click
 - Password strength indicator for security level assessment
 - User-friendly interface with a responsive design
+         
